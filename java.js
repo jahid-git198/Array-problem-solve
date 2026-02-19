@@ -87,3 +87,8 @@ const number2 = [4,5,6]
 const result = [ ...number, ...number2]
 
 console.log(result)
+
+const  roll = " jahid"
+
+const result2 = [...roll]
+console.log(result2)
